@@ -50,4 +50,5 @@ genera con ReportLab, por lo que no requiere un compilador LaTeX externo.
 ## para adquirir el archivo .exe 
 - estoy adjuntando un link de un drive donde se podra visualizar el archivo para descargar , cabe resaltar que el antivirus o microsoft u otro siempre te pondra restricciones pero no hay problema todos modos les habrira una ventana azul de microsoft donde dice no se pudo ejecutar y les aparecera  en mas informacion clikean y ponen ejecutar de todas formas https://drive.google.com/file/d/1imlABDdURK78_FbcXKRQ1RrQ22WShhos/view?usp=sharing
 - 
+<img width="526" height="480" alt="image" src="https://github.com/user-attachments/assets/bacae504-18fe-430c-9f42-aeaadf95fa02" />
 
