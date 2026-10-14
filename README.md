@@ -53,3 +53,8 @@ genera con ReportLab, por lo que no requiere un compilador LaTeX externo.
   
 <img width="526" height="480" alt="image" src="https://github.com/user-attachments/assets/bacae504-18fe-430c-9f42-aeaadf95fa02" />
 
+Para abrir la aplicación no necesitan instalar Python ni paquetes adicionales.
+Para generar el reporte PDF sí deben instalar MiKTeX  en Windows. No necesitan instalar PyLaTeX por separado: ya está incluido en el .exe. Después de instalar MiKTeX , cierren y vuelvan a abrir la aplicación para que encuentre pdflatex.
+
+El requisito de LaTeX aplica solo a quienes vayan a generar el PDF; para usar las demás funciones no necesitan instalarlo.
+https://miktex.org/download este es el enlace para descargar miktex para su reporte automatico pdf
