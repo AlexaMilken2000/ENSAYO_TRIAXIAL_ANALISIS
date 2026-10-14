@@ -1,4 +1,0 @@
-git rm --cached EnsayoTriaxial.exe
-git rm EnsayoTriaxial.exe
-git commit -m "Eliminar ejecutable EnsayoTriaxial.exe"
-git push origin <tu-rama>
